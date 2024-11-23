@@ -1,4 +1,6 @@
-// キャンバスの設定
+//まだ書きかけ！！
+
+//キャンバスの設定
 let canvas = document.querySelector('canvas'); // →キャンバス(canvas) 作ってくれ
 canvas.width = 400, canvas.height = 300; // →大きさの設定 (width は 幅 / height は 高さ)
 let context = canvas.getContext('2d'); // →2D(平面)で書いて
